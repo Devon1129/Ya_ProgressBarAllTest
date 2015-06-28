@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ya_ProgressBarAllTest</string>
+    <string name="button1">圓形的 ProgressBar Dialog</string>
+    <string name="button2">長形的 ProgressBar Dialog</string>
+    <string name="button3">圓形的 ProgressBar</string>
+    <string name="button4">長形的 ProgressBar</string>
+    <string name="str_dialog_title">請稍候片刻</string>
+    <string name="str_dialog_body">正在進行</string>
+    
+
+</resources>
